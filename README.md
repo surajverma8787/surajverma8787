@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **surajverma8787@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3R517Nn](https://bit.ly/3R517Nn)
+- 📄 Know about my experiences [https://bit.ly/3qcaW07](https://bit.ly/3qcaW07)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
