@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajverma8787&label=Profile%20views&color=0e75b6&style=flat" alt="surajverma8787" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django, React**
 
 - 👨‍💻 All of my projects are available at [https://surajverma8787.pythonanywhere.com/](https://surajverma8787.pythonanywhere.com/)
 
